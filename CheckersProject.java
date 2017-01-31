@@ -44,7 +44,7 @@ public class CheckersProject{
 	}
 	
 	void runGame(){
-		System.out.println("Welcome to Saras's Checkers Game! A new game of checkers has begun.");
+		System.out.println("A new game of checkers has begun.");
 		System.out.println("Row counting starts at (0, 0), from left to right and top to bottom.");
 		setBoard();
 		while(!gameOver){
